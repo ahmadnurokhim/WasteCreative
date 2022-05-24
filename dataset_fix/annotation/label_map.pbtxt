@@ -1,0 +1,59 @@
+item {
+  id: 1
+  name: 'botol plastik'
+}
+
+item {
+  id: 2
+  name: 'cangkang telur'
+}
+
+item {
+  id: 3
+  name: 'gelas plastik'
+}
+
+item {
+  id: 4
+  name: 'kaleng'
+}
+
+item {
+  id: 5
+  name: 'kantong plastik'
+}
+
+item {
+  id: 6
+  name: 'kardus'
+}
+
+item {
+  id: 7
+  name: 'sachet'
+}
+
+item {
+  id: 8
+  name: 'sedotan plastik'
+}
+
+item {
+  id: 9
+  name: 'sendok plastik'
+}
+
+item {
+  id: 10
+  name: 'stik es krim'
+}
+
+item {
+  id: 11
+  name: 'tusuk sate'
+}
+
+item {
+  id: 12
+  name: 'tutup botol'
+}
