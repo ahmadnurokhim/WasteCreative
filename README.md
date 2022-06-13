@@ -40,7 +40,7 @@ WasteCreative is an android application that can detect household waste objects 
 
 1. Clone the repository
 2. Upload dataset_fix to google drive
-3. Open the notebook for the model at [this](https://github.com/ahmadnurokhim/WasteCreative/blob/main/colab-notebooks/SSDMobileNetv2_64_final_v1.ipynb) link
+3. Open the notebook for the model at [this](https://github.com/ahmadnurokhim/WasteCreative/blob/main/colab-notebooks/SSDMobileNetv2_64_final_v1.ipynb) link in Google Colab
 4. Follow the instructions on the notebook and run the notebook until it's finished
 5. The model will be converted to TFLite format and ready to use in the mobile application
 
